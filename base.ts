@@ -945,63 +945,63 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir annuler cette réunion?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation type="unfinished"></translation>
+        <translation>Oui, l&apos;annuler</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Non ne pas annuler</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer cette réunion?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Oui, supprimez-le</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Non, garde le</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler la réunion</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editer</translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler les séries</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les séries</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier la série</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuler l&apos;occurrence</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer l&apos;occurrence</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier l&apos;occurrence</translation>
     </message>
 </context>
 <context>
@@ -2124,63 +2124,63 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>MailComposeDialog</name>
     <message>
         <source>Compose</source>
-        <translation type="unfinished"></translation>
+        <translation>Composer</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>sauvegarde</translation>
     </message>
     <message>
         <source>saved locally</source>
-        <translation type="unfinished"></translation>
+        <translation>enregistré localement</translation>
     </message>
     <message>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>erreur</translation>
     </message>
     <message>
         <source>Draft saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Brouillon enregistré</translation>
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de l&apos;enregistrement du brouillon</translation>
     </message>
     <message>
         <source>Forward sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Transféré envoyé</translation>
     </message>
     <message>
         <source>Delegate sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Délégué envoyé</translation>
     </message>
     <message>
         <source>Error sending message</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;envoi du message</translation>
     </message>
     <message>
         <source>Message sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Message envoyé</translation>
     </message>
     <message>
         <source>Meeting forwarded</source>
-        <translation type="unfinished"></translation>
+        <translation>Réunion transmise</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la transmission d&apos;une réunion</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer ce brouillon?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
-        <translation type="unfinished"></translation>
+        <translation>Oui, jetez-le</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Non, garde le</translation>
     </message>
 </context>
 <context>
