@@ -478,7 +478,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
-        <translation>Vous ne voyez pas votre fournisseur de messagerie répertorié ici? Actuellement, Hiri travaille avec Office365, Outlook.com (Hotmail/Live/MSN) et Exchange. Si tu as besoin d&apos;aide,.</translation>
+        <translation>Vous ne voyez pas votre fournisseur de messagerie répertorié ici? Actuellement, Hiri travaille avec Office365, Outlook.com (Hotmail/Live/MSN) et Exchange. Si tu as besoin d&apos;aide, </translation>
     </message>
     <message>
         <source>contact us.</source>
@@ -934,7 +934,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Attachments downloaded to: </source>
-        <translation>Pièces jointes téléchargées sur:</translation>
+        <translation>Pièces jointes téléchargées sur: </translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
@@ -3820,7 +3820,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachment downloaded to: </source>
-        <translation>Pièce jointe téléchargée sur:</translation>
+        <translation>Pièce jointe téléchargée sur: </translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
@@ -4602,55 +4602,55 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>That file is already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce fichier est déjà attaché.</translation>
     </message>
     <message>
         <source>Some files are already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Certains fichiers sont déjà attachés.</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les jours</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque jour de travail</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque %1. %2</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque dernier %1</translation>
     </message>
     <message>
         <source>Trial: </source>
-        <translation type="unfinished"></translation>
+        <translation>Essai: </translation>
     </message>
     <message>
         <source>Ends today</source>
-        <translation type="unfinished"></translation>
+        <translation>Se termine aujourd&apos;hui</translation>
     </message>
     <message>
         <source>1 day left</source>
-        <translation type="unfinished"></translation>
+        <translation>1 jour restant</translation>
     </message>
     <message>
         <source>%1 days left</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 jours restants</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Toute la journée</translation>
     </message>
     <message>
         <source>now</source>
@@ -4658,7 +4658,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Due in </source>
-        <translation type="unfinished"></translation>
+        <translation>Dû en </translation>
     </message>
     <message>
         <source>Starts in </source>
@@ -4666,11 +4666,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mins</translation>
     </message>
     <message>
         <source>%1 h</source>
